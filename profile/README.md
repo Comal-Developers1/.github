@@ -1,4 +1,4 @@
-# Comal Distribuição de Alimentos
+# Comal Comercio
 
 Bem-vindo à organização **Comal** no GitHub! Somos uma empresa de distribuição de alimentos comprometida com qualidade, agilidade e inovação.
 
